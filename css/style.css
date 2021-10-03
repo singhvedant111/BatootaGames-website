@@ -2039,17 +2039,13 @@ nav {
 @media (max-width: 479px) {
 
   .list1 li {
-
     font-size: 12px;
 
     line-height: 16px;
 
   }
 
-  .bximage{
-    height:200px;
-    width: 400px;
-  }
+
 
 }
 
@@ -2316,13 +2312,38 @@ footer a:hover
 	height:380px;
 	width:100%;
 }
-@media(max-width:767px)
+@media screen and (max-width:767px)
 {
 	.hmefrm
 	{
 		height:auto;
 		width:100%
 	}
+  .bximage{
+    height:200px !important;
+    width: 290px !important;
+    object-fit: cover;
+  }
 }
+
+@media (min-width:768px) and (max-width:3080px)
+{
+	.hmefrm
+	{
+		height:auto;
+		width:100%
+	}
+  .bximage{
+    height:500px !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+}
+
+
+
+
 /*Core variables and mixins*/
 
