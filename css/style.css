@@ -1754,7 +1754,7 @@ nav {
 .box7 p {
 
   margin-bottom: 5px;
-
+  margin-left: 30px;
   font-size:13px;
   text-align:justify;
 
@@ -1773,6 +1773,7 @@ nav {
   .box7 .h7 {
 
     margin-top: 0;
+    margin-left:50px;
 
   }
 
