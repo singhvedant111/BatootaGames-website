@@ -2333,14 +2333,14 @@ footer a:hover
 }
 .hmefrm
 {
-	height:380px;
+	height:auto;
 	width:100%;
 }
 @media screen and (max-width:767px)
 {
-	.hmefrm
+  .hmefrm
 	{
-		height:auto;
+		height:250px;
 		width:100%
 	}
   .bximage{
@@ -2354,7 +2354,7 @@ footer a:hover
 {
 	.hmefrm
 	{
-		height:auto;
+		height:500px;
 		width:100%
 	}
   .bximage{
