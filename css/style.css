@@ -45,7 +45,7 @@ a[href^="tel:"]:hover {
 
 }
 
-.bx-wrapper, .bx-viewport, .bx-wrapper img {height: 500px !important;}
+
 a {
 
   text-decoration: none;
@@ -2044,6 +2044,11 @@ nav {
 
     line-height: 16px;
 
+  }
+
+  .bximage{
+    height:200px;
+    width: 400px;
   }
 
 }
