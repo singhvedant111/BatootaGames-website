@@ -503,6 +503,6 @@ table {
     padding: 0 15px;
   }
   .row {
-    margin-left: 0;
+    margin-left: -30px;
   }
 }
