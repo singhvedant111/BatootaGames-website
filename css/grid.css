@@ -178,7 +178,9 @@ table {
 }
 .gridcontent_{
   width: 1470px;
+  margin-left:0;
 }
+
 .grid_12 {
   width: 1470px;
 }
@@ -191,10 +193,7 @@ table {
 .gridbottom_12{
   width: 1380px;
 }
-.gridbottom_8{
-  width: 100%;
-  margin-left:0;
-}
+
 .grid_11 {
   width: 1070px;
 }
@@ -218,7 +217,11 @@ table {
 }
 .gridbottom_4{
   width: 100%;
-  margin-left:0;
+  margin-left:15px;
+}
+.gridbottom_8{
+  width: 100%;
+  margin-left:15px;
 }
 .grid_4 {
   width: 370px;
@@ -284,7 +287,7 @@ table {
 .container:after {
   clear: both;
 }
-@media (min-width: 980px) and (max-width: 1199px) {
+@media (min-width: 980px) and (max-width: 1280px) {
   .row {
     margin-left: -20px;
   }
@@ -495,6 +498,18 @@ table {
   .select-menu {
     display: block !important;
   }
+  .gridcontent_5{
+    margin-left:0;
+  }
+  .gridbottom_4{
+    width: 100%;
+    margin-left:0;
+  }
+  .gridbottom_8{
+    width: 100%;
+    margin-left:0;
+  }
+ 
 }
 @media (max-width: 479px) {
   body {

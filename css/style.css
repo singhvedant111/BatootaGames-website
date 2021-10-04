@@ -734,7 +734,7 @@ nav {
 
 
 
-@media (max-width: 1199px) {
+@media (max-width: 1280px) {
 
   .sf-menu > li > a {
 
@@ -2265,7 +2265,7 @@ nav {
 
 }
 
-@media only screen and (max-width: 1199px) {
+@media only screen and (max-width: 1280px) {
 
   #toTop {
 
