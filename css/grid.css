@@ -193,7 +193,7 @@ table {
 }
 .gridbottom_8{
   width: 100%;
-
+  margin-left:0;
 }
 .grid_11 {
   width: 1070px;
@@ -218,6 +218,7 @@ table {
 }
 .gridbottom_4{
   width: 100%;
+  margin-left:0;
 }
 .grid_4 {
   width: 370px;
