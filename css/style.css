@@ -2362,8 +2362,8 @@ footer a:hover
 	}
   .bximage{
     height:200px !important;
-    width: 420px !important;
-    object-fit: cover;
+    width: 300px !important;
+    object-fit: scale-down;
   }
   .watermarked {
     position: relative;
